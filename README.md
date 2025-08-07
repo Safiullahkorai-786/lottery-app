@@ -9,7 +9,20 @@ A simple Flutter-based mobile application that generates random numbers for a lo
 - Simple and intuitive interface with a floating action button to generate new numbers.
 
 ## Screenshots
+### It's how it will look on web
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a77e6e5b-ad60-47bf-9ea3-59da348bae67" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c32fce05-04ca-486a-9ae9-66278579ba26" width="30%" />
+  <img src="https://github.com/user-attachments/assets/48ec5fca-e1eb-4bd8-8c84-b6dbe75a08b5" width="30%" />
+</p>
 
+### And it's how you can see the app on your mobile
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31c904da-af50-444f-9eec-582e8964313d" width="22%" />
+  <img src="https://github.com/user-attachments/assets/91c45a81-9654-4315-8834-6471ddefa0b1" width="22%" />
+  <img src="https://github.com/user-attachments/assets/19a95eb8-a5e2-4b07-972e-cd76b47c2da6" width="22%" />
+  <img src="https://github.com/user-attachments/assets/99cbcc19-5a8f-4136-bf14-9a6681abe745" width="22%" />
+</p>
 
 ## Prerequisites
 To run this project, ensure you have the following installed:
